@@ -11,8 +11,8 @@ The only modifications I made was changing the CSS style's a little bit.
 
 ## Installation 
 Prerequisites:
--Node.js (v.12+)__
--Angular CLI__
+-Node.js (v.12+)  
+-Angular CLI  
 You can install them using tutorial ( https://angular.io/guide/setup-local ) 
 
 1. Clone the repository
