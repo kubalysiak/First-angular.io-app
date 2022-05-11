@@ -16,4 +16,4 @@ Prerequisites:
 You can install them using tutorial ( https://angular.io/guide/setup-local ) 
 
 1. Clone the repository
-2. Run `cd my-app`, `ng serve --open` then navigate to `http://localhost:4200/`. 
+2. Run `cd <directory with the app>`, `ng serve --open` then navigate to `http://localhost:4200/`. 
